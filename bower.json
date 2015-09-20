@@ -1,0 +1,26 @@
+{
+  "name": "purescript-router",
+  "version": "0.1.0",
+  "description": "Router for single-page applications",
+  "homepage": "https://github.com/dbushenko/purescript-router",
+  "authors": [
+    "dbushenko <d.bushenko@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dbushenko/purescript-router.git"
+  },
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+      "purescript-eff": "latest",
+      "routie": "^0.3.2"
+  }
+}
