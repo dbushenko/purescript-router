@@ -2,7 +2,7 @@
 
 This is a library for routing in the single-page application. It is based on the [Routie](https://github.com/jgallen23/routie) js library.
 
-See details in the [documentation](https://github.com/dbushenko/purescript-router/docs).
+See details in the [documentation](https://github.com/dbushenko/purescript-router/blob/master/docs/Routie.md).
 
 Usage example is below.
 
